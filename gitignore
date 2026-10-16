@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+*.egg-info/
+
+# Arduino
+build/
+*.hex
+*.elf
+*.bin
+
+# CAD autosaves / temp files
+*.f3d.bak
+*.sldprt.bak
+*.sldasm.bak
+*.SLDPRT~
+~$*
+*.autosave
+*.3mf.bak
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
